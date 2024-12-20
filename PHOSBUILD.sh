@@ -18,7 +18,8 @@ cd /opt/PHANTX/pacu
 
 sudo poetry install
 
+cp -Rf pacu /opt/ANDRAX/bin
 
-chmod -R 755 /opt/PHANTX/pacu
+chmod -R 755 /opt/PHANTX/bin
 rm -rf /opt/PHOS/tool/pacu
 rm -rf /opt/PHOS/tool/pacu
