@@ -1,1 +1,3 @@
+cd /opt/PHANTX/pacu
 
+sudo poetry run pacu "$@"
